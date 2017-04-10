@@ -13,5 +13,8 @@
 
 ## Intro
 
-#### This repo contains iPython notebooks, data, figures for the scikit-ribo paper.
+#### This repo contains materials/analysis in the scikit-ribo manuscript:
+- [iPython notebooks](https://github.com/hanfang/scikit-ribo_manuscript/tree/master/iPythonNB)
+- [Figures](https://github.com/hanfang/scikit-ribo_manuscript/tree/master/Figures) 
+- [Data](https://github.com/hanfang/scikit-ribo_manuscript/tree/master/Data)
 
