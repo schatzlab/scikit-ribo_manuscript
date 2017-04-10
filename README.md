@@ -13,3 +13,5 @@
 
 ## Intro
 
+#### This repo contains iPython notebooks, data, figures for the scikit-ribo paper.
+
