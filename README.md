@@ -1,6 +1,6 @@
-## *scikit-ribo*
+# scikit-ribo
 
-#### - Accurate inference and robust modelling of translation dynamics at codon resolution with Riboseq data
+#### - Reproducing the analysis in the scikit-ribo manuscript using iPython notebooks
 #### https://github.com/hanfang/scikit-ribo
 
 --------
