@@ -18,3 +18,6 @@
 - [Figures](https://github.com/hanfang/scikit-ribo_manuscript/tree/master/Figures) 
 - [Data](https://github.com/hanfang/scikit-ribo_manuscript/tree/master/Data)
 
+## Reference
+
+Fang et al, "Scikit-ribo: Accurate inference and robust modelling of translation dynamics at codon resolution" (Preprint coming up)
