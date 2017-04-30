@@ -1,0 +1,1 @@
+cmd = highestTE_genes.bed sacCer3 motif -size 56

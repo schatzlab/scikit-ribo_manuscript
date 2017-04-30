@@ -1,0 +1,1 @@
+cmd = rpkm_highestTE_genes.bed sacCer3 rpkm_motif -size 56
